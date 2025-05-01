@@ -1,13 +1,13 @@
 A. Utilize C++ STL if needed. Write a C++ program to solve the following, 
-![in](image.png)
-![input](image-1.png)
-![ex](image-2.png)
+![in](images/image.png)
+![input](images/image-1.png)
+![ex](images/image-2.png)
 
 
 B. Utilize C++ STL if needed. Write a C++ program to solve the following, 
-![qn](image-3.png)
-![input](image-4.png)
-![output](image-5.png)
+![qn](images/image-3.png)
+![input]images/(image-4.png)
+![output](images/image-5.png)
 
 
 

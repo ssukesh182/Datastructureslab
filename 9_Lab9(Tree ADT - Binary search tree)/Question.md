@@ -1,17 +1,17 @@
 A. Utilize C++ STL to solve the following (K5), 
 
-![qn](image.png)
-![inp](image-1.png)
-![output](image-2.png)
+![qn](images/image.png)
+![inp](images/image-1.png)
+![output](images/image-2.png)
 
 
 
 B. Utilize C++ STL to solve the following (K5),
 
-![inp](image-3.png)
-![input](image-4.png)
-![output](image-5.png)
-![tc](image-6.png)
+![inp](images/image-3.png)
+![input](images/image-4.png)
+![output](images/image-5.png)
+![tc]images/(image-6.png)
 
 
 
