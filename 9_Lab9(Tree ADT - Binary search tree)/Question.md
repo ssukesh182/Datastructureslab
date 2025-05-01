@@ -1,3 +1,21 @@
+A. Utilize C++ STL to solve the following (K5), 
+
+![qn](image.png)
+![inp](image-1.png)
+![output](image-2.png)
+
+
+
+B. Utilize C++ STL to solve the following (K5),
+
+![inp](image-3.png)
+![input](image-4.png)
+![output](image-5.png)
+![tc](image-6.png)
+
+
+
+
 C. Write a separate C++ menu-driven program to implement Tree ADT using a binary search tree. Maintain proper boundary conditions and follow good coding practices. The Tree ADT has the following operations, 
  
 1. Insert 
